@@ -49,7 +49,7 @@ int main(int argc, char **argv) {
 
     //reading values if it is in the range
 
-    if (dsValue<1000.0 and dsValue>200.0){
+    if (dsValue<800.0){
          round_2 = round(dsValue);
 
 
